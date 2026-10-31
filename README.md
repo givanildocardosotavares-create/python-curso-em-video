@@ -3,7 +3,7 @@
 Exercícios do curso de Python de Gustavo Guanabara (Curso em Vídeo).
 
 ## Progresso
-- Mundo 1: 15/100 exercícios
+- Mundo 1: 21/100 exercícios
 
 ## Estrutura
 - `mundo-01/`: exercícios do Mundo 1
